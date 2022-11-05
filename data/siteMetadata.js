@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Maui Consulting',
-  author: 'Tama Hoetawa',
-  headerTitle: 'Maui Consulting',
-  description: 'Digital Legal Services',
+  title: 'Maui Legal Consulting',
+  author: 'Tamati Hoetawa',
+  headerTitle: 'Maui Legal Consulting',
+  description: 'Legal Consultancy',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://www.mauilegalconsultancy.com',

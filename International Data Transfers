@@ -1,0 +1,164 @@
+
+---
+title: 'International Data Transfer Abroad: How to send Personal Data Abroad the UK rules'
+date: '2022-19-03'
+tags: ['GDPR','Europe']
+draft: false
+summary: 'Personal Data Transfers can be made simply when appropriate safeguards are in restricted legal enviroments'
+---
+
+As part of an interconnected and widely changing global market, it's likely that your company needs to send data abroad to conduct many of its daily business activities. After the implementation of the UK GDPR, many of these transfers are likely to be considered a 'restricted data transfer'. Here is all the information you need to continue sending data abroad under the new regulation:
+
+Is the data transfer you are making a restricted transfer?
+
+If your company is sending data to a receiving country that is not covered by the UK GDPR but the data you are transferring is, then you will be making a restricted transfer. If the receiver is a legal entity that is separate from yours, even if they are in the same corporate group, this will still fall under a restricted transfer.
+
+If however you send personal data to an individual that is employed by your organisation but they are in a separate country, this would not be considered a restricted data transfer as you are not sending data outside of your own company.
+
+Is the country you are transferring personal data to covered under adequacy regulations?
+
+An adequacy decision means that the country you are transferring data to is deemed to have the same standard of data protection and legal framework as that covered by the UK GDPR. In these instances, you would not need to worry about implementing safeguards and can transfer between these territories freely. An adequacy regulation simply sets this fact out in law.
+
+Below is a list of countries and territories the UK currently has adequacy regulations for:
+
+Full adequacy decisions:
+
+EU Countries (Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden)
+EFTA Countries (Iceland, Norway, Liechtenstein)
+Andorra,
+Argentina,
+Gibraltar
+Guernsey,
+Isle of Man,
+Israel,
+Jersey,
+New Zealand,
+Switzerland, and
+Uruguay.
+Partial adequacy decisions:
+
+Japan, and
+Canada
+What happens if the country I am transferring personal data to is not on that list?
+
+Here is where you are expected to implement the ‘appropriate safeguards’ that will allow you to transfer personal data to another territory outside of the list.
+
+The available safeguards within your arsenal are as follows:
+
+1. Legal instruments made between public bodies that contain ‘appropriate safeguards’
+
+Whilst the UK GDPR does not define what a public body is, it usually describes governmental bodies that undertake certain measures that are for the public interest. An ‘appropriate safeguard’ under this would allow for ‘enforceable rights’ and ‘effective remedies for the individual whose data is being transferred.
+
+Pros
+
+This may be easier to implement if the country you wish to transfer personal data to has these legal and enforceable instruments already in place.
+
+Cons
+
+Not all territories would have these agreements in place and so may not be utilised for your chosen territory.
+
+2. UK Binding corporate rules (UK BCRs)
+
+They are internal codes of conduct which apply to multinational groups. For larger corporations, it is more common to adopt binding corporate rules (BCRs) as they are suited for international transfers between separate entities within the same organisation and thus better suited to global businesses.
+
+Pros
+
+It is globally recognised as a high standard for compliance and is useful in adapting to the changing needs of your company. It is a good way to evidence accountability and a good model that can be utilised for many purposes.
+
+Cons
+
+There is a demanding approval process and the lack of resources from the regulators can impact the approval process and cause delays. It is also more technical than Standard contractual clauses and thus requires sufficient internal resources within your organisation.
+
+3. Standard Contractual Clauses (SCCs)
+
+The most common for SMEs are Standard contractual clauses (SCCs) which are contracts that have been pre-approved by the EU that allows a company to continue transferring data between the EEA after the UK leaves the European Union. This is only the case where SCCs provide for “essentially equivalent” protection as in the EEA and the ICO has a useful tool for SMEs to determine whether this is the right form of safeguard for your organisation.
+
+Pros
+
+Largely standardised clauses available without the need for significant amendments. It is pre-approved, can be relatively straightforward to file and is also suitable for one-off transfers.
+
+Cons
+
+Standardised wording comes with problems of adapting the clauses to specific transfers and the evolving needs of the company. There is also a risk of non-observance by data importers and is subject to further administrative requirements in most of the EU.
+
+4. Contract
+
+A contract between your organisation and the receiving entity that has been created specifically for restricted transfers and which must also be authorised by the ICO.
+
+Pros
+
+Will allow for the transfer of certain restricted data that is tailored to your organisation’s needs.
+
+Cons
+
+A contract will require further resources to ensure that its drafting is legally enforceable and that it meets all the relevant criteria set out by the ICO.
+
+Full information on the pros and cons of each safeguard here
+
+Perform an Impact Assessment before making restricted data transfers
+
+The ICO recommends conducting a transfer impact assessment whereby you must satisfy yourself that the safeguard you have chosen is adequate in protecting the personal data of your data subjects and that the safeguard is compatible with the legal framework of the destination country.
+
+If by the end of the assessment you require further safeguards as the one you have picked appears inadequate as a standalone, you may include further measures.
+
+How Privasee can help
+
+The Privasee platform can help you store and map your organisation’s data so that you know exactly what data you have, how long you have had it for and who it relates to. This can help you better understand where your data is located and any red flags within your data storage that you should become aware of. It also makes international data transfers a lot simpler: understanding the data you hold and where they are located will allow you to identify the data that needs to be transferred elsewhere, be it within the UK or internationally. Our platform can also help you keep track of the safeguards you are using for these transfers and will help you identify which one might be best.
+
+Are there any exceptions?
+
+If the restricted data transfer is not covered by appropriate safeguards, you will need to consider the below ‘exceptions’ under Article 49 of the UK GDPR that will still allow you to make a restricted transfer:
+
+Consent
+
+Must be specific and informed
+Must provide details about the restricted transfer to the individual in question
+Cannot obtain generalised consent for all restricted transfers of data
+Information that should be given to the individual includes:
+The identity of the receiver
+Country of receiver
+Reason for the restricted transfer
+The area of data being transferred
+How an individual can withdraw their consent to such restricted transfers
+The possible risks of consenting to such restricted transfers without adequate safeguards and an adequacy decision in place.
+Contract
+
+Must be only for restricted transfers that don't occur regularly
+Must be necessary to make the restricted transfer to fulfil the terms of the contract
+Public interest
+
+Must have an existing UK law that allows for a restricted transfer on the basis of public interest
+This is usually also in the form of an international agreement
+Can be relied upon by both public and private bodies
+Must be for occasional restricted transfers and should not be used for systematic transfers
+Legal claim
+
+Must be for occasional transfers that are not regular
+Must be for a necessary purpose which requires a close connection between the transfer and the legal claim
+A legal claim can be interpreted to be all judicial claims and administrative or regulatory procedures
+Must not rely on this exception if the claim has not yet risen and it remains a possibility in the future
+Protecting vital interests
+
+Applicable in a medical emergency where data needs to be transferred between countries to give the correct medical care
+Cannot be relied upon for carrying out medical research
+Cannot rely on this if the individual whose data is in question can give consent
+Public registers
+
+The register will have been created under UK law and will either be open to the public in general or for any person able to demonstrate a legitimate interest
+Restricted transfers must comply with the general law of disclosure and must be assessed against the data protection rights of the individuals whose data is to be transferred
+One-off legitimate interests
+
+Must be for occasional transfers that are not regular
+Restricted transfer only of data of a limited number of individuals
+The legitimate interest must be ‘compelling’ which is a higher threshold to meet, more information can be found on the ICO website
+The compelling legitimate interest must outweigh the rights and freedoms of the individuals which must be evidenced when questioned
+A full assessment of the legitimate interest is conducted and reasons identified
+The ICO must be informed of the transfer which will involve giving full details of the steps taken to ensure the above
+The individual of whom the data in the restricted transfer belongs must be informed and have the legitimate interest explained to them
+Further information on the aforementioned exceptions can be viewed on the ICO website.
+
+We hope this article can help you better understand what is expected of your organisation when you are making an international transfer and simplify some of the concepts identified by the ICO. More information can be found on the ICO website on conducting international transfers and full details can be found here.
+
+Disclaimer
+
+Privasee does not hold the above article to constitute legal advice in any form.
